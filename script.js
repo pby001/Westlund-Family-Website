@@ -1,43 +1,43 @@
 const imageData = [
     { 
         src: `./assets/OscarWestlund1.jpg`,
-        desc: `description`
+        desc: `Oscar Westlund 1909 Everett`
     },
     { 
         src: `./assets/OscarWestlund2.jpg`,
-        desc: `description`
+        desc: `Julia Olson Everett 1918`
     },
     { 
         src: `./assets/OscarWestlund3.jpg`,
-        desc: `description`
+        desc: `Oscar and Julia Westlund wedding day 1918`
     },
     { 
         src: `./assets/OscarWestlund5.jpg`,
-        desc: `description`
+        desc: `At the Westlunds home early 1960's. Oscar Lorrain, Julia Margaret and Robert Bergstrom`
     },
     { 
         src: `./assets/WeslundHomestead.jpg`,
-        desc: `description`
+        desc: `Robert Bergstrom at Westlund family home in Kristinhamn Sweden 1976. Gustav Westlund left and Erik Gustafson right`
     },
     { 
         src: `./assets/Westlund2015.jpg`,
-        desc: `description`
+        desc: `Westlund family grave marker 1976 Kristinhamn Sweden`
     },
     { 
         src: `./assets/Westlund2016.jpg`,
-        desc: `description`
+        desc: `Erik Gustavson, Thomas Bergstrom and Gustav Westlund at familfarm in Kristinhamn Sweden 1976`
     },
     { 
         src: `./assets/Westlund3017.jpg`,
-        desc: `description`
+        desc: `Westlund family grave marker 1976 Kristinhamn Sweden`
     },
     { 
         src: `./assets/WestlundGrandparents.jpg`,
-        desc: `description`
+        desc: `Lovisia Westlund (mother of Oscar) with Lorrain Beac and Bill Beach, Seattle Washington 1950's.`
     },
     { 
         src: `./assets/WestlundSistersAtTheBeach.jpg`,
-        desc: `description`
+        desc: `June, Lorrain and Margaret Westlund at the beach.  Seattle Washington 1940's`
     },
 ]
 
