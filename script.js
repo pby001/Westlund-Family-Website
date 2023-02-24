@@ -1,43 +1,43 @@
 const imageData = [
     { 
-        src: "./assets/OscarWestlund1.jpg",
-        desc: "description"
+        src: `./assets/OscarWestlund1.jpg`,
+        desc: `description`
     },
     { 
-        src: "./assets/OscarWestlund2.jpg",
-        desc: "description"
+        src: `./assets/OscarWestlund2.jpg`,
+        desc: `description`
     },
     { 
-        src: "./assets/OscarWestlund3.jpg",
-        desc: "description"
+        src: `./assets/OscarWestlund3.jpg`,
+        desc: `description`
     },
     { 
-        src: "./assets/OscarWestlund5.jpg",
-        desc: "description"
+        src: `./assets/OscarWestlund5.jpg`,
+        desc: `description`
     },
     { 
-        src: "./assets/WeslundHomestead.jpg",
-        desc: "description"
+        src: `./assets/WeslundHomestead.jpg`,
+        desc: `description`
     },
     { 
-        src: "./assets/Westlund2015.jpg",
-        desc: "description"
+        src: `./assets/Westlund2015.jpg`,
+        desc: `description`
     },
     { 
-        src: "./assets/Westlund2016.jpg",
-        desc: "description"
+        src: `./assets/Westlund2016.jpg`,
+        desc: `description`
     },
     { 
-        src: "./assets/Westlund3017.jpg",
-        desc: "description"
+        src: `./assets/Westlund3017.jpg`,
+        desc: `description`
     },
     { 
-        src: "./assets/WestlundGrandparents.jpg",
-        desc: "description"
+        src: `./assets/WestlundGrandparents.jpg`,
+        desc: `description`
     },
     { 
-        src: "./assets/WestlundSistersAtTheBeach.jpg",
-        desc: "description"
+        src: `./assets/WestlundSistersAtTheBeach.jpg`,
+        desc: `description`
     },
 ]
 
