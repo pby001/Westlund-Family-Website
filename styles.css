@@ -83,3 +83,9 @@ h2 {
     color: rgb(165, 165, 165);
     font-weight: 300;
 }
+
+@media (max-width: 800px) {
+    .modalText {
+      width: 100%;
+    }
+  }
